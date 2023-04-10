@@ -1,0 +1,2 @@
+D:\22.11.5243\Dosen\Dosen\bin\Debug\Dosen.exe.config
+D:\22.11.5243\Dosen\Dosen\obj\Debug\Dosen.csprojResolveAssemblyReference.cache
